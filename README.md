@@ -1,0 +1,2 @@
+kuapay-magento-plugin
+=====================
